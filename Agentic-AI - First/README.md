@@ -6,6 +6,8 @@ A minimal agentic AI assistant built with the Anthropic Python SDK and `claude-s
 
 The agent takes a user query, sends it to Claude, and loops until Claude produces a final answer. Along the way, Claude can call local tools to fetch data or perform calculations before responding.
 
+*Test changes, to be removed later*
+
 ## Agentic Loop
 
 The core of the agent is a `while True:` loop in `run_agent()`:
