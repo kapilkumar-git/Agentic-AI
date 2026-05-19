@@ -1,0 +1,1 @@
+- [Project Structure](project_structure.md) — root dir, agent path, single-line date-based CHANGE.md format (no semantic versioning sections)
